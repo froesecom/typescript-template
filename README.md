@@ -13,14 +13,14 @@ Includes:
 - clone repo
 - `yarn install`
 -  if you want to add new directories, you have to tell typescript where they are by adding them to `tsconig.json` in the `include` block:
-		```
-		"include": [
-    	"models/**/*",
-    	"helpers/**/*",
-    	"presenters/**/*",
-    	"__tests__/**/*"
-  	 ],
-     ```
+~~~
+"include": [
+	"models/**/*",
+	"helpers/**/*",
+	"presenters/**/*",
+	"__tests__/**/*"
+],
+~~~
 
 ### To run
 - `yarn test` to run tests
