@@ -1,6 +1,6 @@
 # Erik's TypeScript Template
 
-Built using Node 11.6
+Built using Node 12.8 
 
 Includes:
 - TypeScript
