@@ -26,3 +26,6 @@ Includes:
 - `yarn test` to run tests
 - `yarn type-check` to type-check all files
 - `yarn hello` to run "Hello World" script
+
+### To Do
+- Replace tslint (deprecated) with eslint
